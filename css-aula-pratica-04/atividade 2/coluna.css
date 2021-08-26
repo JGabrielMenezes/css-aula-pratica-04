@@ -1,0 +1,27 @@
+#colunas {
+    display: flex;
+}
+
+#coluna1 {
+    width: 250px;
+    height: 250px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+#coluna2 {
+    width: 250px;
+    height: 250px;
+    background-color:yellowgreen;
+    color: white;
+    text-align: center;
+}
+
+#coluna3 {
+    width: 250px;
+    height: 250px;
+    background-color: #ccc;
+    color: white;
+    text-align: center;
+}
